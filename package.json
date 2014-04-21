@@ -1,5 +1,5 @@
 {
-  "name": "rave-curl-domReady",
+  "name": "rave-curl-domready",
   "version": "0.0.3",
   "description": "Adds curl's domReady AMD plugin to RaveJS.",
   "main": "rave.js",
